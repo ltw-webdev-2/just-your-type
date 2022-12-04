@@ -36,9 +36,9 @@ deliverables: '1 HTML file, 4 CSS files'
 
 The grades for this assignment are split over 3 different deliverables: text & sketches, code, design & rationale.
 
-- **Text & sketches** — decide on the piece of text & plan every aspect of the website on paper: boxes, semantics, grids, type, modules, responsiveness—all screen sizes.
+- **Text & sketches** — decide on the piece of text & plan every aspect of the website on paper: boxes, semantics, grids, type, modules, responsiveness—all screen sizes.
 - **Code** — satisfy all of Markbot’s requirements—and submit using Markbot.
-- **Design & rational** — apply sensible design choices, to compliment the text you’ve chosen—[and explain all your decisions](#rationale).
+- **Design & rational** — apply sensible design choices, to compliment the text you’ve chosen—[and explain all your decisions](#rationale).
 
 ### Rationale
 
